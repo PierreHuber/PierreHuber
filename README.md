@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PierreHuber
-- 👀 I’m interested in Data Science and other use case for technology.
+- 👀 I’m interested in Data Science, other use cases for technology and learning new things always.
 - 🌱 I’m currently learning how to manage big pool of data using AutoML, Python, Pandas...
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me pierre.huber@unil.ch
